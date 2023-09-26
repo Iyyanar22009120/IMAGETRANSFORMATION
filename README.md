@@ -150,10 +150,6 @@ img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
 cropped_img=img[200:500,800:1100]
 plt.imshow(cropped_img)
 plt.show()
-
-
-
-
 ```
 ## Output:
 ### reading the image
