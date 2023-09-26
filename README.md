@@ -20,9 +20,10 @@ Display the modified image output.
 End the program.
 
 ## Program:
-```python
-Developed By:
-Register Number:
+```
+Developed By:IYYANAR S
+Register Number:212222240036
+```
 ## reading the original image
 ```
 import numpy as np
