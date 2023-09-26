@@ -182,8 +182,7 @@ plt.show()
 
 
 ### vi)Image Cropping
-
-![Uploading cropping5.png…]()
+![cropping5](https://github.com/Iyyanar22009120/IMAGETRANSFORMATION/assets/118680259/49c0c705-23bc-417b-8ad9-665a3c5b08c4)
 
 
 
