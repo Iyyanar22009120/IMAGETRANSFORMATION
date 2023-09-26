@@ -7,20 +7,17 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 Anaconda - Python 3.7
 
 ## Algorithm:
-### Step1:
-<br>
 
+### Step1: 
+Import numpy,cv2,matplotlib.pypolt packages.
 ### Step2:
-<br>
-
+Load the image file in the program.
 ### Step3:
-<br>
-
+Use the Translation,Scaling,Shearing,Reflection,Rotation,Cropping using OpenCV and Python.
 ### Step4:
-<br>
-
+Display the modified image output.
 ### Step5:
-<br>
+End the program.
 
 ## Program:
 ```python
